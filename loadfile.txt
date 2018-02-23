@@ -2,3 +2,4 @@ I am is learning git;
 Are you Successed?yes!I still learning...
 Git has a mutable index called stage.
 Git tracks changes of files
+More test!
