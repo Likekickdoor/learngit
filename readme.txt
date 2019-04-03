@@ -5,3 +5,4 @@
 使用 git push 或 git push origin <one branch> 似乎差不多，第二种可以更准确推送到某个branch
 使用git diff <local branch> <remote>/<remote branch>比较远处和本地
 我在dev1添加了此行
+我在master主支上添加一行实践冲突，创建feature1分支实践冲突问题
